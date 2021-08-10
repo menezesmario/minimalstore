@@ -19,6 +19,7 @@
       "link#cta"
     ]
   },
+  
   "image#cta":{
     "props": {
       "blockClass": "cover",
